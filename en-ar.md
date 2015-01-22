@@ -1,35 +1,36 @@
 English     | عربي  | ملاحظات
 :------:    |:-------:|:---------
-Function | دالة
-Method | وظيفة
 Class | صنف | فئة
-Index | فهرس
-Indexing | فهرسة
-Hashing | تجزئة
-Encryption | تعمية
-Template | قالب
-Templating | قولبة
-Prototype | نموذج | أنموذج
-Inheritance | وراثة
-Mixin | خليط | تحتاج مراجعة
-Header | ترويسة
-Response | جواب
-Request | طلب
-Response Body | متن الجواب
-Request Body | متن الطلب
 Closure     | دالة مغلقة | لا توحي بنفس المعنى، يفضل أستبدالها
-Return      | إعادة/إرجاع
-Interface   | واجهة | مدخل
 Code        | شيفرة | شفرة
-Script      | نص برمجيّ | مخطوطة برمجية
+Computer | حاسوب
+Concatenation | جمع
 Constructor | مُشيّد |
 Controller | متحكّم
+Cookie | كعكة
+Deployment | نشر
+Encryption | تعمية
+Function | دالة
+Hashing | تجزئة
+Header | ترويسة
+Indexing | فهرسة
+Index | فهرس
+Inheritance | وراثة
+Interface   | واجهة | مدخل
+Method | وظيفة
+Minification | تقليص | اختصار، اختزال
+Mixin | خليط | تحتاج مراجعة
+Prototype | نموذج | أنموذج
+Repository | مستودع
+Request Body | متن الطلب
+Request | طلب
+Response Body | متن الجواب
+Response | جواب
+Return      | إعادة/إرجاع
 Router | موجّه
 Routing | توجيه
-Deployment | نشر
+Script      | نص برمجيّ | مخطوطة برمجية
+Server | خادوم
 Session | جلسة
-Cookie | كعكة
-Concatenation | جمع
-Minification | تقليص | اختصار، اختزال
-Repository | مستودع
-
+Template | قالب
+Templating | قولبة
