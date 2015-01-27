@@ -47,3 +47,9 @@ Template | قالب
 Templating | قولبة
 Terminal | طرفية
 View | منظور | طريقة عرض
+Documentation | وثائق، توثيق
+Namespace | فضاء الأسماء
+Global scope | النّطاق العامّ
+Globals | كائنات مُعرّفة ضمن النّطاق العامّ (في JavaScript)
+Debug | تنقيح
+Debugger | مُنقِّح
