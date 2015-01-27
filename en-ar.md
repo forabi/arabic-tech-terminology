@@ -12,9 +12,14 @@ Concatenation | جمع
 Constructor | مُشيّد |
 Controller | متحكّم
 Cookie | كعكة
+Debugger | مُنقِّح
+Debug | تنقيح
 Deployment | نشر
+Documentation | وثائق، توثيق
 Encryption | تعمية
 Function | دالة
+Global scope | النّطاق العامّ
+Globals | كائنات مُعرّفة ضمن النّطاق العامّ (في JavaScript)
 Hashing | تجزئة
 Header | ترويسة
 Indexing | فهرسة
@@ -26,6 +31,7 @@ Minification | تقليص | اختصار، اختزال
 Mixin | خليط | تحتاج مراجعة
 Model | نموذج
 Module | وحدة
+Namespace | فضاء الأسماء
 Observer | راصد | مُراقب
 Parse | تفسير
 Prototype | نموذج بِدئيّ | أنموذج
@@ -47,9 +53,3 @@ Template | قالب
 Templating | قولبة
 Terminal | طرفية
 View | منظور | طريقة عرض
-Documentation | وثائق، توثيق
-Namespace | فضاء الأسماء
-Global scope | النّطاق العامّ
-Globals | كائنات مُعرّفة ضمن النّطاق العامّ (في JavaScript)
-Debug | تنقيح
-Debugger | مُنقِّح
